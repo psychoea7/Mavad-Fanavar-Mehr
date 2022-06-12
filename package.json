@@ -1,0 +1,23 @@
+{
+  "name": "mavad-fanavar-mehr",
+  "version": "1.0.0",
+  "description": "Company-Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychoea7/Mavad-Fanavar-Mehr.git"
+  },
+  "author": "Beh-Negaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psychoea7/Mavad-Fanavar-Mehr/issues"
+  },
+  "homepage": "https://github.com/psychoea7/Mavad-Fanavar-Mehr#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}

@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  user-select: none;
+}
+/* Variables ----------------------------------------------------------------- */
+:root {
+    --clr-primary: #f6f6f6;
+    --clr-secondary: rgb(0, 93, 131);
+    --clr-accent: rgb(233, 195, 30);
+    --clr-dark: rgb(58, 62, 61);
+  }
