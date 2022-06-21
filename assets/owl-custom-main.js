@@ -28,7 +28,7 @@ $(".owl").owlCarousel({
       nav: false,
       dots: true,
       autoplaySpeed:300,
-      autoplay:false,
+      autoplay:true,
       responsive: {
         0: {
           items: 1
